@@ -82,11 +82,16 @@ int main (void)  {
 ## Before Stimulation:
 
 
+![WhatsApp Image 2022-11-25 at 10 00 17 PM (1)](https://user-images.githubusercontent.com/94219798/204027621-a9f93dfc-7d71-4f11-aacc-b81df0ffd23d.jpeg)
 
 
+## After Stimulation:
 
+![WhatsApp Image 2022-11-25 at 10 00 17 PM](https://user-images.githubusercontent.com/94219798/204027666-078a6757-c410-41d0-b461-c13f42fda157.jpeg)
 
+## Circuit Diagram:
 
+![WhatsApp Image 2022-11-25 at 10 00 15 PM](https://user-images.githubusercontent.com/94219798/204027738-6fd74e20-c2ea-488a-a0c4-93332ccc2a2b.jpeg)
 
 
 
